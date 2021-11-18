@@ -1,6 +1,6 @@
 .container{
     text-align: center; 
-    font-family: gluten_font;
+    font-family: gluten_font,sans-serif;
 }
 @font-face {
     font-family: gluten_font;
